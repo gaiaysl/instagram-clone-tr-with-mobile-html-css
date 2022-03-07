@@ -1,0 +1,15 @@
+body{
+    display:flex;
+}
+.left{
+ display: none;
+
+}
+.right{
+    justify-content: center;
+}
+.footer{
+    width: 350px;
+    justify-content: center;
+    letter-spacing: auto;
+}
